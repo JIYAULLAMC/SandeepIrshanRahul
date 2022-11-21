@@ -1,0 +1,11 @@
+CRITICAL:Hello world NFO: This is an info
+ERROR: This is an error
+RITICAL: This is critical
+CRITICAL:Hello world
+INFO: This is an info
+ERROR: This is an error
+CRITICAL: This is critical CRITICAL:Hello world
+INFO: This is an info ERROR: This is an error
+CRITICAL: This is critical CRITICAL:Hello world
+INFO: This is an info ERROR: This is an error
+CRITICAL: This is critical'

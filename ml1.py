@@ -1,0 +1,1 @@
+print("jiyaulla m chindadi") 
